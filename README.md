@@ -5,7 +5,8 @@
 <br><br>
 
 # 🌐 Social Media :
-<a href="https://www.linkedin.com/in/sefa-alperen-tas-9aa976290/"><img align="left" alt="Robin Cassard LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a> <br>
+<a href="https://www.linkedin.com/in/sefa-alperen-tas-9aa976290/"><img align="left" alt="Robin Cassard LinkedIn" width="22px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /></a> 
+<br>
 <br>
 
 
