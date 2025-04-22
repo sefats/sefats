@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👋 Hi, I'm Sefa!<br><br>I'm passionate about programming and exploring new technologies. Currently, I'm a 2nd-year student in Computer Science. What I love most about the field of computer science is the constant research and learning of new knowledge.<br><br>🚀 Here's what I do:<br><br>I continually explore new technologies to broaden my programming horizons.<br>I create projects that both inspire and amuse me.
+<br>👋 Hi, I'm Sefa!<br><br>I'm passionate about programming and exploring new technologies. Currently, I'm a 3nd-year student in Computer Science. What I love most about the field of computer science is the constant research and learning of new knowledge.<br><br>🚀 Here's what I do:<br><br>I continually explore new technologies to broaden my programming horizons.<br>I create projects that both inspire and amuse me.
 
 <br>💻 By collaborating together, we have the potential to create something exceptional! Feel free to explore my projects and contact me if you'd like to contribute or discuss ideas.
 <br><br>
